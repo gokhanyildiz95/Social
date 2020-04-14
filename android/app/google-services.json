@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "700605578165",
+    "firebase_url": "https://socialtraffic-5d67e.firebaseio.com",
+    "project_id": "socialtraffic-5d67e",
+    "storage_bucket": "socialtraffic-5d67e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700605578165:android:618393414f45930e7e37fc",
+        "android_client_info": {
+          "package_name": "com.socialtraffic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700605578165-6vku091kgdenn9m602d31210alivtidk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlVOhFT6zZLwxfBM4Ga-bmdTuz3-M2lNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700605578165-6vku091kgdenn9m602d31210alivtidk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "700605578165-n1put1i644qo4j94idav5isgr0044vrp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.SocialTraffic.new"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700605578165:android:9971f41b1dcc1ad87e37fc",
+        "android_client_info": {
+          "package_name": "com.socialtrafficc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700605578165-6vku091kgdenn9m602d31210alivtidk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlVOhFT6zZLwxfBM4Ga-bmdTuz3-M2lNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700605578165-6vku091kgdenn9m602d31210alivtidk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "700605578165-n1put1i644qo4j94idav5isgr0044vrp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.SocialTraffic.new"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700605578165:android:73ed55ba7d30e73a7e37fc",
+        "android_client_info": {
+          "package_name": "com.socialtrafficv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700605578165-6vku091kgdenn9m602d31210alivtidk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlVOhFT6zZLwxfBM4Ga-bmdTuz3-M2lNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700605578165-6vku091kgdenn9m602d31210alivtidk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "700605578165-n1put1i644qo4j94idav5isgr0044vrp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.SocialTraffic.new"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
